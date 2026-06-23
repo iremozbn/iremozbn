@@ -1,18 +1,22 @@
-### Hi there 👋
-![olaf](https://user-images.githubusercontent.com/56583531/109419357-18c20080-79de-11eb-9a24-e93aa14d031b.gif)
+# Güner İrem Özben 
 
+### Data Scientist & AI Developer
+Krakow, Poland | Available Immediately for Full-Time Roles (Umowa o pracę)
 
-<!--
-**iremozbn/iremozbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An analytical and production-oriented Computer Engineer (BSc) and Computer & Data Science (MSc) graduate. Experienced in building automated data pipelines, architecting GenAI/RAG solutions, and optimizing deep learning models for resource-constrained edge hardware (Edge AI).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Ecosystem
+
+- **Languages & Core:** Python 3 (Advanced), SQL, C#, Bash
+- **Data Science & AI:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow Lite, LangChain, HuggingFace
+- **Data Engineering & Cloud:** ETL Pipelines, PostgreSQL, AWS (Certified), GCP, Azure Fundamentals
+- **Backend & MLOps:** FastAPI, REST APIs, Docker, Git, Unit Testing (TDD), Linux
+
+---
+
+## 🚀 Key Production Repositories
+
+- **[Plant Master](./thesis):** MSc Thesis Project. 100% offline-first Edge AI vision app running optimized EfficientNet-B4 via TFLite on mobile devices.
+- **[GenAI Shopping Assistant](./Shopping_Assistant):** E2E recommendation system using FastAPI, LangChain, and vector similarity search.
